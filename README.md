@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+All of my repository is fully private. But some repository which in public status is my school task
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Balisa16&theme=dark&background=000000)](https://git.io/streak-stats)
