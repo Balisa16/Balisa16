@@ -33,6 +33,7 @@ I’m currently learning Autonomous Drone in EMIRO (EEPIS Multirotor) Research T
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) 
@@ -70,9 +71,6 @@ I’m currently learning Autonomous Drone in EMIRO (EEPIS Multirotor) Research T
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Balisa16&limit=5&theme=monokai&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Balisa16&icon=5&color=11)](https://visitcount.itsvg.in)
