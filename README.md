@@ -61,7 +61,6 @@ I’m currently learning Autonomous Drone in EMIRO (EEPIS Multirotor) Research T
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats-ruby-one.vercel.app)
 ![](https://github-readme-stats.vercel.app/api?username=Balisa16&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Balisa16&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Balisa16&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
