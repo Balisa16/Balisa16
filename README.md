@@ -30,7 +30,6 @@ I’m currently learning Autonomous Drone in EMIRO (EEPIS Multirotor) Research T
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nothing9l1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sander-antonius-balisa-26070423b/) 
 
 # 💻 Tech Stack:
-![]("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
