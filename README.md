@@ -25,7 +25,7 @@ I'm a student in Electronic Engineering Polytechnic Institute of Surabaya.<br/>
 I’m currently learning Autonomous Drone in EMIRO (EEPIS Multirotor) Research Team.<br/>
 <br/><br/>
 ***All of my repository is fully private. But some repository which in public status is my school task***
-<br/><br/>
+<br/>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nothing9l1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sander-antonius-balisa-26070423b/) 
 
