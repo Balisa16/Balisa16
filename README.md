@@ -23,7 +23,7 @@ All of my repository is fully private. But some repository which in public statu
 # 💫 About Me:
 I'm a student in Electronic Engineering Polytechnic Institute of Surabaya.<br/>
 I’m currently learning Autonomous Drone in EMIRO (EEPIS Multirotor) Research Team.<br/>
-<br/><br/>
+<br/>
 ***All of my repository is fully private. But some repository which in public status is my school task***
 <br/>
 ## 🌐 Socials:
@@ -98,8 +98,8 @@ I’m currently learning Autonomous Drone in EMIRO (EEPIS Multirotor) Research T
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a> 
   <a href="https://www.wxwidgets.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"/></a>
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a></p>
-<br/><br/>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
+</p>
 
 
 <!--# 📊 GitHub Stats:-->
