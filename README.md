@@ -101,7 +101,8 @@ I’m currently learning Autonomous Drone in EMIRO (EEPIS Multirotor) Research T
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a></p>
 <br/><br/>
 
-# 📊 GitHub Stats:
+
+<!--# 📊 GitHub Stats:-->
 <!--![](https://github-readme-stats.vercel.app/api?username=Balisa16&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>-->
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=Balisa16&theme=dark&hide_border=false)<br/>-->
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=Balisa16&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)-->
