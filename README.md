@@ -103,4 +103,4 @@ I’m currently learning Autonomous Drone in EMIRO (EEPIS Multirotor) Research T
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Balisa16&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Balisa16&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Balisa16/Balisa16/output/snake.svg" alt="Snake animation" />
