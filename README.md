@@ -1,6 +1,7 @@
 # About Me:
-I'm a student in Electronic Engineering Polytechnic Institute of Surabaya.<br/>
-I’m currently learning Autonomous Drone in EMIRO (EEPIS Multirotor) Research Team.<br/>
+'''
+sudo shutdown -h now
+'''
 <br/>
 ***All of my repository is fully private. But some repository which in public status is my school task***
 <br/>
