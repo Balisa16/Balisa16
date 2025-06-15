@@ -1,11 +1,7 @@
 # About Me:
-'''
+```
 sudo shutdown -h now
-'''
-<br/>
-***All of my repository is fully private. But some repository which in public status is my school task***
-<br/>
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4505F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nothing9l1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sander-antonius-balisa) 
+```
 
 # Languages and Tools :
 <p align="left">
